@@ -1,10 +1,8 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://islaben.github.io/",
   name: "Benkhelifa Islam",
   jobDescription: "Angular Developer",
-  about: `I am a software engineer specialised in front-end development, a fan of Angular still I always prefer using the right tool for the right job. Always
-  looking to learn something new and improve my skills.
-  `,
+  about: `I'm a software engineer specialising in front-end development, a fan of Angular but I always prefer to use the right tool for the right job. I'm always looking to learn something new and improve my skills.`,
 
   experience: [
     {
@@ -13,8 +11,8 @@ export const info = {
       startDate: "Mar 2022",
       endDate: "Present",
       description: [
-        "- Fixing bugs and improving application performance and add new features to the existing code base.",
-        "- Planning application refactoring and provide guidance concerning application architecture.",
+        "✓ Fixing bugs, improving application performance and adding new features to the existing code base.",
+        "✓ Planning application refactoring and advising on application architecture.",
       ],
     },
 
@@ -24,12 +22,12 @@ export const info = {
       startDate: "Sep 2020",
       endDate: "Feb 2022",
       description: [
-        "✓ Leading a team to develop and deploy the official Algerian presidency website (www.el-mouradia.dz) where I was also responsible for all the frontend part",
-        "✓ Leading the development team during the development of a B2B enterprise project",
-        "✓ Transformed UI/UX designes to functional Angular code",
-        "✓ Successfully lead the development team during the development of a couple of high importance projects",
-        "✓ Mainly worked on the front-end application using Angular 11, container/presentation components architecture and NGXS as a state management system",
-        ],
+        "✓ Leading a team to develop and deploy the official website of the Algerian presidency (www.el-mouradia.dz), where I was also responsible for the entire front end.",
+        "✓ Lead a team during the development of a B2B commercial project",
+        "✓ Transforming UI/UX designs into functional Angular code",
+        "✓ Successfully lead the dev team through the development of a number of major projects.",
+        "✓ Worked on the front-end application using Angular 11, the container/presentation component architecture and NGXS as the state management system.",
+      ],
     },
     {
       name: "HTR Services DZ (Remote Freelance)",
@@ -37,7 +35,8 @@ export const info = {
       startDate: "Aug 2019",
       endDate: "Dec 2019",
       description: [
-        "✓ I successfully fixed different issues on the DZ-GO project which is an online hotel booking platform that for the Algerian market"],
+        "✓ Successful resolution of various problems as part of the DZ-GO project, an online hotel reservation platform for the Algerian market.",
+      ],
     },
   ],
 
@@ -48,7 +47,7 @@ export const info = {
       startDate: "2015",
       endDate: "2020",
       description: [
-        "Commputer Science Engineering degree majoring in information systems and web",
+        "Diploma in computer engineering with a specialisation in information systems and the web",
       ],
     },
     {
@@ -57,7 +56,7 @@ export const info = {
       startDate: "2015",
       endDate: "2020",
       description: [
-        "Commputer Science Master's degree majoring in information systems and web",
+        "Master's degree in computer science, specialising in information systems and the web",
       ],
     },
   ],
